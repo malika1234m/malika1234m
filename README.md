@@ -1,64 +1,24 @@
-<h1 align="center">👋 Hi, I'm Malika Nishnatha</h1>
-
-<p align="center">
-  <code><b>Programmer • Problem Solver • Tech Enthusiast</b></code>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Welcome+to+my+page!;I+love+to+code.;I+build+cool+projects.💻" alt="Typing SVG" />
-</p>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Malika+Nishnatha.;Programmer+%7C+Problem+Solver+%7C+Code+Artist;Welcome+to+My+Hacker+Hub+%F0%9F%90%9B" alt="Typing SVG" /></h1>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/about-banner.gif" alt="About Me Banner" width="75%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malikanishnatha&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Hacker animation"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-- 👨‍💻 Passionate **programmer** who loves building software, solving real-world problems & learning new technologies.
-- 🌱 Currently exploring: **Web Development**, **Data Structures**, and **Open Source Projects**.
-- 🛠️ Coding in: `Python`, `C++`, `JavaScript`, and `HTML/CSS`
-- 📫 Always open to collaboration and learning from others.
+```bash
+> whoami
+👤 Malika Nishnatha
 
----
+> role
+💻 Programmer | Tech Explorer | Terminal Addict
 
-### 🛠️ Languages & Tools
+> interests
+📌 Web Development | Linux | Cybersecurity | Open Source
 
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikanishnatha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikanishnatha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🌐 Portfolio: [Coming Soon](#)
-- ✉️ Email: [yourname@email.com](mailto:yourname@email.com)
-
----
-
+> motto
+"Code like a poet, debug like a detective."
