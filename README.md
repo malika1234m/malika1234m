@@ -21,6 +21,7 @@
 - 🔍 Interested in **Web Development**, **Open Source**, and **Data Structures**.
 - 🌱 Currently learning `React`, `Node.js`, and diving deeper into `DSA`.
 - 🛠️ Tools I use regularly: `VS Code`, `Git`, `Linux Terminal`, and `Postman`.
+-  💻 I love solving problems with CTF challenges
 
 ---
 
@@ -52,8 +53,8 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/malika-nishnatha-07523333a/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:malikanishnatha4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
