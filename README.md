@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4FACFE&center=true&vCenter=true&multiline=false&width=600&lines=SLIIT+Undergraduate+%F0%9F%8E%93;CTF+Player+%F0%9F%9A%A9;Arduino+Tinkerer+%F0%9F%A4%96;Web+Dev+%2B+Problem+Solver+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4FACFE&center=true&vCenter=true&multiline=false&width=600&lines=UCSC+Undergraduate+%F0%9F%8E%93;CTF+Player+%F0%9F%9A%A9;Arduino+Tinkerer+%F0%9F%A4%96;DevOps+%26+AI+Explorer+%F0%9F%A4%96;Web+Dev+%2B+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 $ cat about.txt
 
 Name    : T.G. Malika Nishnatha
-Uni     : SLIIT (Sri Lanka Institute of IT)
+Uni     : UCSC (University of Colombo School of Computing)
 From    : Galle, Sri Lanka 🇱🇰
 Status  : Undergraduate | Building cool things
 
@@ -30,12 +30,13 @@ Interests:
   ├── Web Development
   ├── CTF Challenges 🚩
   ├── Arduino & Hardware Hacking
-  ├── Data Structures & Algorithms
-  └── Open Source
+  ├── DevOps & Cloud Infrastructure
+  ├── AI / Machine Learning
+  └── Data Structures & Algorithms
 
 Currently:
-  ├── Learning React & Node.js
-  └── Going deeper into DSA & security
+  ├── Mastering Java ☕
+  └── Exploring DevOps & AI models
 
 Motto   : "Build. Break. Learn. Repeat."
 ```
@@ -56,6 +57,11 @@ Motto   : "Build. Break. Learn. Repeat."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 **Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,10 +70,16 @@ Motto   : "Build. Break. Learn. Repeat."
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Learning**
+**Currently Mastering**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Exploring**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
